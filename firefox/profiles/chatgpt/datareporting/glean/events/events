@@ -1,0 +1,20 @@
+{"timestamp":36392015,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1760216796496","path_key":"clean","can_load":"false","loadfail_reason":"File doesn't exist."}}
+{"timestamp":36392019,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","glean_timestamp":"1760216796499","loadfail_reason":"N/A","path_key":"recovery"}}
+{"timestamp":36392019,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1760216796499","loadfail_reason":"N/A","can_load":"true","path_key":"recovery"}}
+{"timestamp":36392020,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"glean_timestamp":"1760216796501","shutdown_ok":"true","shutdown_reason":"final-state-write-incomplete"}}
+{"timestamp":36392318,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1760216796799","setting":"required"}}
+{"timestamp":36392459,"category":"nimbus_events","name":"startup_database_consistency","extra":{"store_active_count":"30","primary":"database","glean_timestamp":"1760216796939","total_db_count":"31","total_store_count":"31","trigger":"startup","db_active_count":"30"}}
+{"timestamp":36392531,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1760216797012","value":"error_notfounderror"}}
+{"timestamp":36392565,"category":"containers","name":"container_profile_loaded","extra":{"containers":"4","glean_timestamp":"1760216797045"}}
+{"timestamp":36392579,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1760216797059"}}
+{"timestamp":36392590,"category":"doh","name":"state_rollback","extra":{"glean_timestamp":"1760216797071","value":"null"}}
+{"timestamp":36392706,"category":"extensions.data","name":"sync_usage_quotas","extra":{"items_count":"11","glean_timestamp":"1760216797187","total_size_bytes":"283","backend":"rust","addon_id":"{762f9885-5a13-4abd-9c77-433dcd38b8fd}","items_over_quota":"0"}}
+{"timestamp":36392707,"category":"extensions.data","name":"sync_usage_quotas","extra":{"backend":"rust","items_count":"7","items_over_quota":"0","addon_id":"sponsorBlocker@ajay.app","total_size_bytes":"1636","glean_timestamp":"1760216797187"}}
+{"timestamp":36392809,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1760216797289"}}
+{"timestamp":36392900,"category":"extensions.data","name":"sync_usage_quotas","extra":{"glean_timestamp":"1760216797381","addon_id":"addon@darkreader.org","total_size_bytes":"3046","items_over_quota":"0","items_count":"23","backend":"rust"}}
+{"timestamp":36393821,"category":"extensions.data","name":"sync_usage_quotas","extra":{"total_size_bytes":"283","items_count":"11","items_over_quota":"0","glean_timestamp":"1760216798302","addon_id":"{762f9885-5a13-4abd-9c77-433dcd38b8fd}","backend":"rust"}}
+{"timestamp":36393844,"category":"extensions.data","name":"sync_usage_quotas","extra":{"items_over_quota":"0","backend":"rust","addon_id":"sponsorBlocker@ajay.app","glean_timestamp":"1760216798325","items_count":"7","total_size_bytes":"1636"}}
+{"timestamp":36393881,"category":"extensions.data","name":"sync_usage_quotas","extra":{"glean_timestamp":"1760216798362","backend":"rust","items_over_quota":"0","total_size_bytes":"3046","addon_id":"addon@darkreader.org","items_count":"23"}}
+{"timestamp":36397479,"category":"normandy","name":"expose_nimbus_experiment","extra":{"featureId":"newtabTrainhopAddon","branchSlug":"control","value":"new-tab-145020250919173227-to-release","glean_timestamp":"1760216801960"}}
+{"timestamp":36397479,"category":"nimbus_events","name":"exposure","extra":{"experiment":"new-tab-145020250919173227-to-release","glean_timestamp":"1760216801960","feature_id":"newtabTrainhopAddon","branch":"control"}}
+{"timestamp":39113219,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1760219517699"}}

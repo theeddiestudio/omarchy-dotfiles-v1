@@ -1,0 +1,26 @@
+**/*cache*/
+**/*tmp*/
+**/temp/
+**/log*/
+
+# Ignore files that end with common temporary/backup extensions
+*.tmp
+*.bak
+*.log
+*.swp # Vim swap files
+*.swo
+
+# Ignore common operating system and IDE-generated files
+.DS_Store             # macOS system files
+Thumbs.db             # Windows system files
+.vscode/              # Visual Studio Code settings/cache
+.idea/                # IntelliJ/WebStorm IDE files
+
+firefox/profiles/*
+
+!profiles/**/history.sqlite
+!profiles/**/bookmarks.html
+!profiles/**/extensions.json
+!profiles/**/key4.db
+!profiles/**/logins.json
+!profiles/**/places.sqlite
