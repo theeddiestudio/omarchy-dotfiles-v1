@@ -12,3 +12,16 @@ true
 true
 0
 #
+
+https://www.facebook.com/
+https://www.facebook.com/sw?s=push
+false
+{a4986f96-62f3-47b4-8e29-a6d8e20966c0}
+1
+1760904062146427
+1760904062156018
+1760904062070297
+1
+{"r":1028631923}
+0
+#
